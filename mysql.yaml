@@ -1,5 +1,7 @@
 - name: configure mysql server
   hosts: mysql
-  become: yes
+  become: 
+  vars-files:
+    -"variable-{{environment}}.yaml"
   roles:
   - mysql

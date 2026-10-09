@@ -1,1 +1,1 @@
-mysql_host: "expense-dev-db.cyxu4kcs0nac.us-east-1.rds.amazonaws.com:3306"
+mysql_host: "expense-dev-db.cyxu4kcs0nac.us-east-1.rds.amazonaws.com"

@@ -1,1 +1,1 @@
-backend_host: 44.220.143.22
+backend_host: internal-expense-dev-alb-616333396.us-east-1.elb.amazonaws.com
